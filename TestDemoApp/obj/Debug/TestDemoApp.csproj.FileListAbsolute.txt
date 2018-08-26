@@ -1,0 +1,7 @@
+c:\users\pradip\source\repos\WinServices\TestDemoApp\bin\TestDemoApp.dll.config
+c:\users\pradip\source\repos\WinServices\TestDemoApp\bin\TestDemoApp.dll
+c:\users\pradip\source\repos\WinServices\TestDemoApp\bin\TestDemoApp.pdb
+c:\users\pradip\source\repos\WinServices\TestDemoApp\obj\Debug\TestDemoApp.csproj.CoreCompileInputs.cache
+c:\users\pradip\source\repos\WinServices\TestDemoApp\obj\Debug\TestDemoApp.dll
+c:\users\pradip\source\repos\WinServices\TestDemoApp\obj\Debug\TestDemoApp.pdb
+c:\users\pradip\source\repos\WinServices\TestDemoApp\obj\Debug\TestDemoApp.csprojResolveAssemblyReference.cache

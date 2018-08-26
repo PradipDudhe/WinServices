@@ -1,0 +1,4 @@
+c:\users\pradip\source\repos\WinServices\WinServices\obj\Debug\WinServices.csprojResolveAssemblyReference.cache
+c:\users\pradip\source\repos\WinServices\WinServices\obj\Debug\WinServices.Properties.Resources.resources
+c:\users\pradip\source\repos\WinServices\WinServices\obj\Debug\WinServices.csproj.GenerateResource.Cache
+c:\users\pradip\source\repos\WinServices\WinServices\obj\Debug\WinServices.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\CosumeServiceApp.exe.config
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\CosumeServiceApp.exe
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\CosumeServiceApp.pdb
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\WSDLDemoService.dll
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\WSDLDemoService.pdb
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\bin\Debug\WSDLDemoService.dll.config
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.csprojResolveAssemblyReference.cache
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.Properties.Resources.resources
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.csproj.GenerateResource.Cache
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.csproj.CoreCompileInputs.cache
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.exe
+c:\users\pradip\source\repos\WinServices\CosumeServiceApp\obj\Debug\CosumeServiceApp.pdb

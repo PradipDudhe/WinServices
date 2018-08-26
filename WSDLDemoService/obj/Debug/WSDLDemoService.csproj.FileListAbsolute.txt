@@ -1,0 +1,6 @@
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\bin\WSDLDemoService.dll.config
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\bin\WSDLDemoService.dll
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\bin\WSDLDemoService.pdb
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\obj\Debug\WSDLDemoService.csproj.CoreCompileInputs.cache
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\obj\Debug\WSDLDemoService.dll
+c:\users\pradip\source\repos\WinServices\WSDLDemoService\obj\Debug\WSDLDemoService.pdb
